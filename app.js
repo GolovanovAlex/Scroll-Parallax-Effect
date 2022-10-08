@@ -48,4 +48,4 @@ $('#arrowBtn').on('click', (e) => {
     duration: 1.5,
     ease: 'power1.inOut',
   });
-});
+}); // scrollTo requires the ScrollTo plugin (not to be confused w/ ScrollTrigger)
