@@ -2,7 +2,7 @@ gsap.set('.main', {
   position: 'fixed',
   background: '#fff',
   width: '100%',
-  maxWidth: '1200px',
+  maxWidth: '1000px',
   height: '100%',
   top: 0,
   left: '50%',
@@ -48,4 +48,4 @@ $('#arrowBtn').on('click', (e) => {
     duration: 1.5,
     ease: 'power1.inOut',
   });
-}); // scrollTo requires the ScrollTo plugin (not to be confused w/ ScrollTrigger)
+});
