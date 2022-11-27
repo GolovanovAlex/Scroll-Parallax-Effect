@@ -1,2 +1,0 @@
-Tom Miller telegram
-use jquery and gsap
